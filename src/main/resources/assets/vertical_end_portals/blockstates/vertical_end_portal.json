@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "axis=x": { "model": "minecraft:block/end_portal" },
+    "axis=y": { "model": "minecraft:block/end_portal" },
+    "axis=z": { "model": "minecraft:block/end_portal" }
+  }
+}
